@@ -210,7 +210,20 @@
 
 - [warp](https://github.com/NethermindEth/warp) - Solidity to cairo transpiler
 
-#### Audit
+#### Security
+
+- [Amarna](https://github.com/crytic/amarna) - Amarna is a static-analyzer and linter for the Cairo programming language.
+
+- [Medjai] https://github.com/Veridise/Medjai - Medjai is an open-sourced general framework for reasoning about  Cairo programs based on symbolic execution. Note: Medjai is still under active development.
+
+- [Horus] https://github.com/NethermindEth/horus-checker - Horus, a formal verification tool for StarkNet smart contracts.
+
+- [Tayt] https://github.com/crytic/tayt - Tayt is a StarkNet smart contract fuzzer.
+
+- [Cairo-Fuzzer] https://github.com/FuzzingLabs/cairo-fuzzer - Cairo-fuzzer is a tool designed by Fuzzing Labs, for smart contract developers to test the security. It can be used as an independent tool or as a library.
+
+- [Open-Zeppelin-Contract-Wizard-for-Cairo] https://wizard.openzeppelin.com/cairo - OpenZeppelin's Cairo Contracts Wizard is a tool that gets developers a headstart when building smart contracts. Developers can use templates to build ERC20, ERC721, and custom tokens with the interactive menu components, all the while watching the code take shape. All code generated is available for download or to copy into existing projects.
+
 
 ## Editor Plugins
 
